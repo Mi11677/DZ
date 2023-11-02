@@ -1,0 +1,6 @@
+Human, White, Walter, 50
+Student, Pinkman, Jessie, 25, Chemistry, WW_220, 90, 95
+Teacher, White, Walter, 50, Chemistry, 25
+Graduate, Schreder, Hank, 40, Criminalistic, OBN, 70, 50, How to catch Heisenberg
+Specialist, Vercetti, Tommy, 30, Theft, Vice, 98, 99, Get money back, 5
+Human, John, Doe, 100, dead
