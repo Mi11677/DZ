@@ -1,0 +1,6 @@
+Student:	Pinkman, Jessie, 25, Chemistry, WW_220, 90.0, 95.0;
+Teacher:	White, Walter, 50, Chemistry, 25;
+Graduate:	Schreder, Hank, 40, Criminalistic, OBN, 70.0, 50.0, How to catch Heisenberg;
+Specialist:	Vercetti, Tommy, 30, Theft, Vice, 98.0, 99.0, Get money back, 5;
+Teacher:	Diaz, Ricardo, 50, Weapons distribution, 20;
+Specialist:	Rosenberg, Ken, 35, Lower, Vice, 35.0, 22.0, No money - no honey, 3;
